@@ -1,0 +1,28 @@
+
+
+.content{
+    width: 40%;
+    border: 1px solid black;
+    position: relative;
+    padding: 20px;
+    background-color: aqua;
+}
+
+
+
+.content i{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: blue;
+}
+
+.all-modals{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
